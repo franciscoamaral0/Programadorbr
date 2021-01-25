@@ -1,0 +1,38 @@
+body{
+
+
+	background-color: gray;
+ 
+}
+#cart{
+	background-image: url(usar.png);
+	background-size: 101%;	
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	height: 200px;
+	width: 400px;
+	padding-left: 5px
+}
+h1 {
+  padding: 15px 0 0 15px;
+  
+}
+ul {
+  margin: 15px 0 0 10px;
+}
+li {
+  padding-bottom: 5px;
+}
+
+#insta{list-style-image:  url(insta.png); 
+}
+
+
+	
+#ttt{ list-style-image:  url(Twitter.png) 
+}
+#tube{list-style-image:  url(Youtube.png) 
+}
+
+
+ol{width="150" height="150"}
